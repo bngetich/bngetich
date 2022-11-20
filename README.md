@@ -26,7 +26,7 @@ I enjoy problem-solving and building web apps!
 
 ### Most Used Languages:
 
-
+<br />
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bngetich&show_icons=true&locale=en&layout=compact" alt="bngetich" /></p>
 
 ---
