@@ -22,10 +22,10 @@ I enjoy problem-solving and building web apps!
 
 ## 🖥 GitHub Stats
 
-<a href="https://github.com/bngetich"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NKoech123&stroke=ffffff&background=041e42&ring=F97316&fire=F97316&currStreakNum=ffffff&currStreakLabel=F97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bngetich&show_icons=true&locale=en" alt="bngetich" /></p>
 
-### Languages and Tools:
-<a href="https://github.com/bngetich" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKoech123&langs_count=3&title_color=F97316&text_color=ffffff&icon_color=F97316&bg_color=041e42&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Most Used:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bngetich&show_icons=true&locale=en&layout=compact" alt="bngetich" /></p>
 
 ---
 
