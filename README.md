@@ -31,6 +31,8 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bngetich&layout=compact&theme=radical" />
 </a>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bngetich&show_icons=true&locale=en" alt="bngetich" /></p>
+
 ---
 
 [linkedin]: https://www.linkedin.com/in/brian-k-ngetich/
