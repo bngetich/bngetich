@@ -3,7 +3,6 @@ I enjoy problem-solving and building web apps!
 - 👀 I’m interested in AWS
 - 👨‍💻 I'm currently working on Spring boot & Angular
 - 👯 I’m looking to collaborate with other Java developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
