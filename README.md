@@ -1,29 +1,28 @@
-## Hey there 👋, I'm Brian! 
-Currently Exploring & Building With
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</p>
+# Hey there 👋, I'm Brian!
+I'm currently exploring and building on technologies listed below:
+
+<img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=python&logoColor=F97316&color=041e42"/>&nbsp;
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23fca9ae.svg?style=for-the-badge&logo=typescript&logoColor=F97316&color=041e42"/>&nbsp;
+<img alt="React" src="https://img.shields.io/badge/react-%23fca9ae.svg?style=for-the-badge&logo=react&logoColor=F97316&color=041e42"/>&nbsp;
+<img alt="Java" src="https://img.shields.io/badge/java-%23fca9ae.svg?style=for-the-badge&logo=oracle&logoColor=F97316&color=041e42"/>&nbsp;
+
+---
 
 ### Connect with me:
 
-[<img align="left" alt="Brian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<a href="https://www.linkedin.com/in/brian-k-ngetich/">
+  <img align="left" width="60px" height="60px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+</a>
 
 <br />
-
+<br />
+<br />
 
 ---
 
 ## 🖥 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bngetich&show_icons=true&locale=en" alt="bngetich" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bngetich&show_icons=true&locale=en&layout=compact" alt="bngetich" /></p>
-
----
-
-[linkedin]: https://www.linkedin.com/in/brian-k-ngetich/
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bngetich&show_icons=true&theme=blueberry" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bngetich&layout=compact&theme=blueberry" alt="Top Languages" height="165" />
+</p>
