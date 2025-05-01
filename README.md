@@ -1,8 +1,14 @@
-### Hi, I'm Brian👋
-I enjoy problem-solving and building web apps! 
-- 👀 I’m interested in AWS & React
-- 👨‍💻 I'm currently working on Spring boot & Angular
-- 👯 I’m looking to collaborate with other Java developers
+## 🚀 Currently Exploring & Building With
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</p>
+
+I'm currently diving deeper into **Python**, **TypeScript**, **React**, and **Java**, building cool things and learning new patterns along the way 
+
 
 ### Connect with me:
 
