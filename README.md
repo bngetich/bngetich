@@ -6,5 +6,4 @@ I build APIs, integrations, and distributed systems with a soft spot for healthc
 
 <p align="center">
   <img src="./profile/stats.svg" height="150" />
-  <img src="./profile/top-langs.svg" height="150" />
 </p>
