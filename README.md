@@ -1,6 +1,6 @@
 Hey, I’m Brian.
 
-Backend engineer, mostly Java.
+Backend and data platform engineer, mostly Java, focused on integrations, distributed systems, and data in motion.
 
 I build APIs, integrations, and distributed systems with a soft spot for healthcare interoperability.
 
